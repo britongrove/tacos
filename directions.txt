@@ -1,0 +1,8 @@
+# Directions for Making Tacos
+
+**DO THIS:**
+
+* **First** cook the steak
+* **Second** grill the tortilla
+* **Third** add beans, steak, cheese, cabbage to tortilla
+* **Last** eat taco
